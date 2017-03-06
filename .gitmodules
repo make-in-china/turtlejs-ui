@@ -1,0 +1,3 @@
+[submodule "src/turtlejs-ui-server"]
+	path = src/turtlejs-ui-server
+	url = git@github.com:make-in-china/turtlejs-ui-server.git
