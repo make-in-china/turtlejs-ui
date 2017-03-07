@@ -1,0 +1,19 @@
+{
+  "name": "turtlejs-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/make-in-china/turtlejs-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/make-in-china/turtlejs-ui/issues"
+  },
+  "homepage": "https://github.com/make-in-china/turtlejs-ui#readme"
+}
