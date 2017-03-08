@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/make-in-china/turtlejs-ui/issues"
   },
-  "homepage": "https://github.com/make-in-china/turtlejs-ui#readme"
+  "homepage": "https://github.com/make-in-china/turtlejs-ui#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-typescript": "^3.1.5",
+    "merge2": "^1.0.3",
+    "moment": "^2.17.1"
+  }
 }

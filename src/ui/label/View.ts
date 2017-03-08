@@ -1,4 +1,4 @@
-/// <reference path="../../../dest/js/turtle.0.1.d.ts"/>
+/// <reference path="../lib.d.ts"/>
 
 //本模块由引擎生成，请勿手动修改此文件
 //生成时间:Sat Feb 18 2017 17:58:46 GMT+0800 (中国标准时间)
