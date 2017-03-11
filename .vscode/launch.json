@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "启动程序",
-            "program": "${workspaceRoot}\\uiwatch.js",
+            "program": "${workspaceRoot}\\gulp.script\\uiwatch.js",
             "cwd": "${workspaceRoot}",
             "outFiles": [],
             "sourceMaps": true

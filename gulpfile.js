@@ -8,7 +8,7 @@ gulp.task('default',function(){
 });
 gulp.task('ui:w', function () {
     var fork=require('child_process').fork;
-    var task=fork('gulp.uiWatch.ts');
+    var task=fork('gulp.script/gulp.uiWatch.ts');
     task.on("message",function(e){
         console.log(e);
     });
